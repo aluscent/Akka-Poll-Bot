@@ -1,0 +1,8 @@
+.bsp
+.idea
+project
+target/global-logging
+target/scala-3.1.3
+target/streams
+target/.history3
+target/task-temp-directory
